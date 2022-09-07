@@ -9,5 +9,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.0.0
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "test-app-4568790"
+          heroku_app_name: " test-app-test-i1kahhoqk4ep0f7b"
           heroku_email: "nimisha@tamu.edu"
