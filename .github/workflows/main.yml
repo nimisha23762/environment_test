@@ -11,4 +11,3 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "test-app-654784579"
           heroku_email: "nimisha@tamu.edu"
-          usedocker: true
